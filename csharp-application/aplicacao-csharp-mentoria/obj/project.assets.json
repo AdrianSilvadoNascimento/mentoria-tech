@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adria\\OneDrive\\Área de Trabalho\\Mentoria Tech\\mentoria-tech-github\\csharp-application\\aplicacao-csharp-mentoria\\aplicacao-csharp-mentoria.csproj",
+      "projectUniqueName": "C:\\Users\\Adria\\OneDrive\\Área de Trabalho\\workspace\\Mentoria-Tech\\mentoria-tech\\csharp-application\\aplicacao-csharp-mentoria\\aplicacao-csharp-mentoria.csproj",
       "projectName": "aplicacao-csharp-mentoria",
-      "projectPath": "C:\\Users\\Adria\\OneDrive\\Área de Trabalho\\Mentoria Tech\\mentoria-tech-github\\csharp-application\\aplicacao-csharp-mentoria\\aplicacao-csharp-mentoria.csproj",
+      "projectPath": "C:\\Users\\Adria\\OneDrive\\Área de Trabalho\\workspace\\Mentoria-Tech\\mentoria-tech\\csharp-application\\aplicacao-csharp-mentoria\\aplicacao-csharp-mentoria.csproj",
       "packagesPath": "C:\\Users\\Adria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adria\\OneDrive\\Área de Trabalho\\Mentoria Tech\\mentoria-tech-github\\csharp-application\\aplicacao-csharp-mentoria\\obj\\",
+      "outputPath": "C:\\Users\\Adria\\OneDrive\\Área de Trabalho\\workspace\\Mentoria-Tech\\mentoria-tech\\csharp-application\\aplicacao-csharp-mentoria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }
