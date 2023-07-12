@@ -13,3 +13,18 @@ C:\Users\Adria\OneDrive\Área de Trabalho\Mentoria Tech\mentoria-tech-github\csh
 C:\Users\Adria\OneDrive\Área de Trabalho\Mentoria Tech\mentoria-tech-github\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.pdb
 C:\Users\Adria\OneDrive\Área de Trabalho\Mentoria Tech\mentoria-tech-github\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.genruntimeconfig.cache
 C:\Users\Adria\OneDrive\Área de Trabalho\Mentoria Tech\mentoria-tech-github\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\ref\aplicacao-csharp-mentoria.dll
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\bin\Debug\net7.0\aplicacao-csharp-mentoria.exe
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\bin\Debug\net7.0\aplicacao-csharp-mentoria.deps.json
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\bin\Debug\net7.0\aplicacao-csharp-mentoria.runtimeconfig.json
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\bin\Debug\net7.0\aplicacao-csharp-mentoria.dll
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\bin\Debug\net7.0\aplicacao-csharp-mentoria.pdb
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.csproj.AssemblyReference.cache
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.AssemblyInfoInputs.cache
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.AssemblyInfo.cs
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.csproj.CoreCompileInputs.cache
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.dll
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\refint\aplicacao-csharp-mentoria.dll
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.pdb
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\aplicacao-csharp-mentoria.genruntimeconfig.cache
+C:\Users\Adria\OneDrive\Área de Trabalho\workspace\Mentoria-Tech\mentoria-tech\csharp-application\aplicacao-csharp-mentoria\obj\Debug\net7.0\ref\aplicacao-csharp-mentoria.dll
