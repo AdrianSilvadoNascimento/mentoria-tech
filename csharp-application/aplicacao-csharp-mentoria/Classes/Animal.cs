@@ -4,7 +4,7 @@ namespace Classes
 {
   class Animal
   {
-    public string Name { get; set; }
+    public required string Name { get; set; }
 
     public void Comer()
     {

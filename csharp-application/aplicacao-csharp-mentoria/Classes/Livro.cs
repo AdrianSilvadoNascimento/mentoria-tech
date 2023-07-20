@@ -4,7 +4,7 @@ namespace Classes
 {
     class Livro : Produto
     {
-        public string Autor { get; set; }
+        public required string Autor { get; set; }
 
         public override void MostrarDetalhes()
         {

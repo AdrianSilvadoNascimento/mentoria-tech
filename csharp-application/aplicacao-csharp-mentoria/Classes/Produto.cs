@@ -4,8 +4,8 @@ namespace Classes
 {
     class Produto
     {
-        public string Nome { get; set; }
-        public string Preco { get; set; }
+        public required string Nome { get; set; }
+        public required string Preco { get; set; }
 
         public virtual void MostrarDetalhes()
         {

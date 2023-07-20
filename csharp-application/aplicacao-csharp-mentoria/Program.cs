@@ -14,38 +14,50 @@ namespace SoloLearn
 		static void Main(string[] args)
 		{
 
-      Animal animal = new Animal();
-      Cachorro cachorro = new Cachorro();
-      animal.Name = "Animal";
-      animal.Nadar();
+         Console.WriteLine(calcularFatorial(5));
+         int calcularFatorial(int n) {
+            if (n == 0)
+            {
+               return 1;
+            }
+            else
+            {
+               return n * calcularFatorial(n - 1);
+            }
+         }
 
-      cachorro.Name = "Rufus";
-      cachorro.Nadar();
+      // Animal animal = new Animal();
+      // Cachorro cachorro = new Cachorro();
+      // animal.Name = "Animal";
+      // animal.Nadar();
 
-      Retangulo retangulo = new Retangulo();
-      retangulo.Largura = 5;
-      retangulo.Altura = 3;
-      double retanguloArea = retangulo.calcularArea();
-      Console.WriteLine(retanguloArea);
+      // cachorro.Name = "Rufus";
+      // cachorro.Nadar();
 
-      Circulo circulo = new Circulo();
-      circulo.Raio = 2.5;
-      double circuloArea = circulo.calcularArea();
-      Console.WriteLine(circuloArea);
+      // Retangulo retangulo = new Retangulo();
+      // retangulo.Largura = 5;
+      // retangulo.Altura = 3;
+      // double retanguloArea = retangulo.calcularArea();
+      // Console.WriteLine(retanguloArea);
 
-      Carro carro = new Carro();
-      carro.Marca = "Fiat";
-      carro.Modelo = "Palio";
-      carro.Ano = 2020;
-      carro.AbrirPorta();
-      carro.Dirigir();
+      // Circulo circulo = new Circulo();
+      // circulo.Raio = 2.5;
+      // double circuloArea = circulo.calcularArea();
+      // Console.WriteLine(circuloArea);
 
-      Moto moto = new Moto();
-      moto.Marca = "Honda";
-      moto.Modelo = "CG";
-      moto.Ano = 2021;
-      moto.LigarMotor();
-      moto.Dirigir();
+      // Carro carro = new Carro();
+      // carro.Marca = "Fiat";
+      // carro.Modelo = "Palio";
+      // carro.Ano = 2020;
+      // carro.AbrirPorta();
+      // carro.Dirigir();
+
+      // Moto moto = new Moto();
+      // moto.Marca = "Honda";
+      // moto.Modelo = "CG";
+      // moto.Ano = 2021;
+      // moto.LigarMotor();
+      // moto.Dirigir();
 
       
       // // Criando uma lista de números.
